@@ -1,6 +1,6 @@
-# Hi there 👋
+# Welcome folks 🧙‍♂️
 
-### My name is Martin, glad you stopped by!
+### My name is Martin, glad you stopped by! 
 
 Here is the list of things I currently work on:
 
